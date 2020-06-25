@@ -1,0 +1,93 @@
+#top {
+    text-align: center;
+}
+
+#main {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: auto;
+    color: black;
+    font-size: xx-large;
+}
+
+#navigation a {
+    color: grey;
+    padding: 8px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+#navigation a:hover {
+    color: violet;
+}
+
+#ServerTeam {
+    color: black;
+    font-size: xx-large;
+    margin: auto;
+    width: 800px;
+    width: 900px;
+}
+
+
+#AboutUs {
+    width: 900px;
+    margin: auto;
+    font-size: xx-large;
+    width: 800x;
+}
+
+#banner {
+    width: 100%;
+    margin-top: 30px;;
+    margin-bottom: 30px;
+}
+
+#social {
+    font-size: xx-large;
+}
+
+
+#sc_links a {
+    color: gray;
+    font-size: xx-large;
+}
+
+#sc_links a :hover {
+    color: violet;
+    font-size: xx-large;
+}
+
+#Changelog {
+    color: black;
+    font-size: xx-large;
+}
+
+
+#Changelog a {
+    color: gray;
+    font-size: xx-large;
+}
+
+#sponsor {
+    width: 900px;
+    margin: auto;
+    font-size: xx-large;
+    width: 800x;
+}
+
+#sponsor h5 {
+font-size: xx-large;
+}
+
+#sponsor a {
+    color: gray;
+}
+
+#sponsor a :hover{
+    color: violet;
+}
+
+#footer {
+    color: black;
+    font-size: medium;
+}
